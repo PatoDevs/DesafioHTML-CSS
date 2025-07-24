@@ -1,33 +1,30 @@
-# 📘 Repositório de Estudos: HTML & CSS
+# 🦆 Repositório de Estudos
 
-Bem-vindo(a) ao meu repositório de estudos de **HTML e CSS**! 🚀  
-Aqui estou documentando minha jornada de aprendizado com foco em desenvolvimento web front-end, incluindo projetos práticos, anotações e exercícios diários.
+Bem-vindo(a) ao repositório de estudos! 🚀  
+Este espaço foi criado para organizar, documentar e compartilhar minha jornada de aprendizado em diversas áreas da tecnologia e desenvolvimento.
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver uma base sólida em HTML e CSS por meio de:
-
-- Aulas práticas
-- Mini-projetos aplicados
-- Exercícios de fixação
-- Desafios visuais
-- Boas práticas de estruturação e estilização
+- Registrar minha evolução nos estudos
+- Organizar conteúdos por temas e módulos
+- Criar projetos práticos e aplicar o que aprendo
+- Facilitar revisões e consultas futuras
+- Compartilhar conhecimento com outros aprendizes
 
 ---
 
-## 📚 Estrutura dos Estudos
+## 📚 Estrutura do Repositório
 
 ```bash
 .
-├── 01-introducao-html/
-├── 02-estruturando-paginas/
-├── 03-introducao-css/
-├── 04-flexbox-grid/
-├── 05-projetos-praticos/
-│   ├── projeto1-landing-page/
-│   ├── projeto2-formulario/
+├── 01-fundamentos/
+├── 02-logica-de-programacao/
+├── 03-algoritmos/
+├── 04-projetos-praticos/
+│   ├── projeto1/
+│   ├── projeto2/
 │   └── ...
 ├── README.md
 └── anotações.md
