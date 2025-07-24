@@ -1,26 +1,33 @@
-# 🚀 Desafio de Programação: 30 Aulas de HTML & CSS
+# 📘 Repositório de Estudos: HTML & CSS
 
-### 💻 Pronto para dominar o básico da web e colocar a mão na massa?
-
-Estamos iniciando o **Desafio de 30 Aulas de Programação com HTML & CSS** – um projeto de aprendizagem contínua com foco em desenvolver páginas, componentes e layouts usando apenas HTML e CSS, de forma prática e progressiva.
-
-A cada dia, vou desenvolver um pequeno projeto, componente ou funcionalidade usando apenas HTML e CSS (sem JavaScript por enquanto!). A ideia é aprender na prática, reforçar os conceitos fundamentais e construir uma base sólida para projetos mais avançados no futuro.
-
-
-
-# 🔧 O que você vai encontrar:
-````
-* Estruturação de páginas com HTML semântico
-* Estilização moderna com CSS (Flexbox, Grid, responsividade)
-* Projetos práticos e objetivos: formulários, menus, cards, landing pages
-* Conteúdo direto, sem enrolação – do básico ao intermediário
-* Compartilhamento do progresso e código
-````
-
-# 👨‍💻 Objetivo:
-
-Ao final das **30 aulas**, você terá mais domínio das ferramentas básicas da web e um conjunto de projetos prontos para mostrar no seu portfólio.
-
-
+Bem-vindo(a) ao meu repositório de estudos de **HTML e CSS**! 🚀  
+Aqui estou documentando minha jornada de aprendizado com foco em desenvolvimento web front-end, incluindo projetos práticos, anotações e exercícios diários.
 
 ---
+
+## 🎯 Objetivo
+
+Desenvolver uma base sólida em HTML e CSS por meio de:
+
+- Aulas práticas
+- Mini-projetos aplicados
+- Exercícios de fixação
+- Desafios visuais
+- Boas práticas de estruturação e estilização
+
+---
+
+## 📚 Estrutura dos Estudos
+
+```bash
+.
+├── 01-introducao-html/
+├── 02-estruturando-paginas/
+├── 03-introducao-css/
+├── 04-flexbox-grid/
+├── 05-projetos-praticos/
+│   ├── projeto1-landing-page/
+│   ├── projeto2-formulario/
+│   └── ...
+├── README.md
+└── anotações.md
