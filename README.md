@@ -1,7 +1,7 @@
 # 🦆 Repositório de Estudos
 
 Bem-vindo(a) ao repositório de estudos! 🚀  
-Este espaço foi criado para organizar, documentar e compartilhar minha jornada de aprendizado em diversas áreas da tecnologia e desenvolvimento.
+Este espaço foi criado para organizar, documentar e compartilhar aprendizado em diversas áreas da tecnologia e desenvolvimento.
 
 ---
 
