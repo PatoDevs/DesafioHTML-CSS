@@ -21,9 +21,6 @@ A cada dia, vou desenvolver um pequeno projeto, componente ou funcionalidade usa
 
 Ao final das **30 aulas**, você terá mais domínio das ferramentas básicas da web e um conjunto de projetos prontos para mostrar no seu portfólio.
 
-📅 **Início:** \[adicione a data]
-📍 **Acompanhe meu progresso por aqui!**
 
-Quer aprender junto comigo? Me chama e bora codar! ⚡👩‍💻👨‍💻
 
 ---
