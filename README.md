@@ -18,13 +18,5 @@ Este espaço foi criado para organizar, documentar e compartilhar minha jornada 
 ## 📚 Estrutura do Repositório
 
 ```bash
-.
-├── 01-fundamentos/
-├── 02-logica-de-programacao/
-├── 03-algoritmos/
-├── 04-projetos-praticos/
-│   ├── projeto1/
-│   ├── projeto2/
-│   └── ...
-├── README.md
-└── anotações.md
+
+HAHAHHAHAHA
